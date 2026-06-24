@@ -1,6 +1,3 @@
-Here is a paraphrased, structured `README.md` for your **Waterwise** application, tailored specifically to South African consumers and leveraging automated meter-reading technologies.
-
----
 
 # Waterwise: Smart Water Tracking for South Africa
 
